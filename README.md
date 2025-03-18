@@ -46,6 +46,7 @@
 - *Queen-Anita_V4 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Queen-Anita_V4 at your own risk by keeping this warning in mind.*
+- *On this repo is was #copied from another repo
   
   #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
